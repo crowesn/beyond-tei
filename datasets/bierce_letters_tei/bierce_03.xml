@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter 03: Bierce to Myles Walsh, undated.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Archives and Rare Book Library</publisher>
+                <pubPlace>University of Cincinnati></pubPlace>
+                <date>2015></date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>                  
+            <p><name type="place">Los Gatos</name></p>
+            <p>Friday evening.</p>
+            <p>Dear <name type="person">Mr. Walsh</name></p>
+            <p><name type="person">You</name> are being hit pretty hard, truly, and <name type="person">I</name>’m right sorry for <name type="person">you</name>. But there’s nothing to be said—
+                we must “take our medicine” in any shape that pleases the Physician of Souls. <name type="person">I</name> only wish it
+                were possible to think it good for us always. As to the suicide phase of it, <name type="person">I</name>’d not let that bother
+                <name type="person">me</name> if <name type="person">I</name> were <name type="person">you</name>. The <name type="person">lad</name> had an indisputable right to quit the game of life whenever <name type="person">he</name> pleased:
+                all the sophistries of all the priesthoods cannot cloud one’s life to one’s heritage of sleep
+                whenever one chooses to claim it. If we were religious—not church-religious—it might be
+                permitted us to hope that matters were so ordered that <name type="person">Lily</name>might have some stronger soul to
+                welcome <name type="person">her</name> on the other side.</p>
+            <p>What <name type="person">you</name> tell me of <name type="person">Lily</name>'s wish to be buried near <name type="person">me</name> is—well, <name type="person">I</name> am rather sorry to know about it
+                now. If <name type="person">you</name> had told me when <name type="person">I</name> saw you <name type="person">I</name> should certainly have begged <name type="person">you</name> to permit <name type="person">me</name> to
+                have the wish carried into effect. It is not for <name type="person">me</name> to inquire into your reasons for not granting
+                it—<name type="person">I</name> can only say that <name type="person">I</name> am sorry there were any circumstances that prevented.</p>
+            <p><name type="person">I</name> shall be glad to see <name type="person">you</name> on Monday. Please give my regards to your <name type="person">uncle</name> and <name type="person">aunt</name>, and
+                believe me most sincerely yours,</p>
+            <p><name type="person">Ambrose Bierce.</name></p>
+            <figure>
+                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+            </figure>
+        </body>
+    </text>
+</TEI>
+
+
+
+

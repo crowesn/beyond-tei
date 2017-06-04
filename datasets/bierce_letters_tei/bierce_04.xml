@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter 04: Bierce to Myles Walsh, December 11, 1895.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Archives and Rare Book Library</publisher>
+                <pubPlace>University of Cincinnati></pubPlace>
+                <date>2015></date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>                  
+            <p><name type="place">Los Gatos</name></p>
+            <p>Dec. 11, 1895.</p>
+            <p>My dear <name type="person">Mr. Walsh</name></p>
+            <p>Both your letters are received. <name type="person">I</name>’m right glad to know that <name type="person">you</name> went into your old place without
+                friction because the other man didn’t fit the hole.</p>
+            <p>Thank <name type="person">you</name> for what <name type="person">you</name> send <name type="person">me</name> about <name type="person">Lily</name>. <name type="person">I</name> had a copy of the little paper published at the
+                <name type="org">Berkeley Institute</name>, which <name type="person">I</name> meant to send <name type="person">you</name>, but have lost it. It contained an appreciative
+                article on <name type="person">Lily</name> and <name type="person">her</name> loss.</p>
+            <p>On Monday last <name type="person">I</name> went to <name type="place">Oakland</name> and visited <name type="person">her</name> grave with a view to improving it, as we
+                talked of. There has been so little rain, though, that the mound is not settled enough. After a few
+                weeks of rainy weather <name type="person">I</name> shall have the little plot sown with grass and later enclosed and marked.
+                <name type="person">I</name> wish <name type="person">I</name> were permitted to put <name type="person">her</name> wittily pathetic epitaph on <name type="person">her</name> headstone. <name type="person">I</name> would do it, sure.
+                <name type="person">I</name> hear from <name type="perseon">Dr. Doyle</name> every few days. <name type="person">He</name> frequently mentions <name type="person">you</name> in a kindly way. <name type="person">Miss Hogan</name> <name type="person">I</name> have not seen since <name type="person">you</name> were here. <name type="person">She</name> is to marry soon, <name type="person">I</name> believe.</p>
+            <p><name type="person">I</name> hope time is doing something for <name type="person">you</name> in your double bereavement—<name type="person">I</name> have not yet become reconciled to my single one.</p>
+            <p>Sincerely yours,</p>
+            <p><name type="person">Ambrose Bierce.</name></p>
+            <figure>
+                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+            </figure>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter 08: Bierce to Myles Walsh, June 11, 1896.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Archives and Rare Book Library</publisher>
+                <pubPlace>University of Cincinnati></pubPlace>
+                <date>2015></date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>                  
+            <p><name type="place">Washington, D.C.</name></p>
+            <p>June 11, 1896.</p>
+            <p>My dear <name type="person">Mr. Walsh</name></p>
+            <p>Thank <name type="person">you</name>. <name type="person">I</name> was very ill indeed, but am better now or <name type="person">I</name> could not be back here. <name type="person">I</name> expect to
+                leave for <name type="place">New York</name> in a few days if well enough, and shall probably remain there for a long
+                time.</p>
+            <p>My trouble is only partly asthma—mostly insomnia and “nervous prostration,” <name type="name">I</name> suppose. Fancy
+                <name type="name">I</name> shall be all right again soon if <name type="name">I</name> can get a little respite from work and worry.</p>
+            <p>Sincerely yours,</p>
+            <p><name type="person">Ambrose Bierce.</name></p>
+            <figure>
+                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+            </figure>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+

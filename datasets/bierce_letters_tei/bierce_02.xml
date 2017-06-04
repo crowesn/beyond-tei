@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter 02: Bierce to Elizabeth (Lily) Walsh, October 13, 1895</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Archives and Rare Book Library</publisher>
+                <pubPlace>University of Cincinnati></pubPlace>
+                <date>2015></date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>                  
+            <p>1011 ½ Washington St.</p>
+            <p><name type="place">Oakland</name>Oct 13, ’95. </p>
+            <p>Friday morn’g.</p>
+            <p>Dear <name type="person">Lily</name></p>
+            <p>It is pleasant to learn that <name type="person">you</name> are feeling so much better. <name type="person">I</name> should like to go to <name type="person">you</name>, but last
+                evening own illness took a sudden bad turn, and today <name type="person">I</name>’m unable (after a night of suffering)
+                to rise from my chair. <name type="person">I</name> shall have to go back to <name type="place">Los Gatos</name> the moment <name type="person">I</name> can be moved. <name type="person">I</name>’ve
+                been here now for more than two weeks, and growing worse all the time. No day have <name type="person">I</name> felt well
+                enough even to cross the bay to <name type="place">San Francisco</name>, where <name type="person">I</name> have urgent business.</p>
+            <p>Before <name type="person">I</name> go your <name type="person">brother</name> will be with <name type="person">you</name>—<name type="person">I</name> have not felt like leaving <name type="person">you</name> entirely alone among
+                strangers, for although <name type="person">I</name> could do nothing for <name type="person">you</name>, it seemed as if it must be pleasant for <name type="person">you</name> to
+                know that <name type="person">I</name> was near by in case anything should happen to <name type="person">you</name>—<name type="person">I</name> mean if <name type="person">you</name> should get worse.
+                But now <name type="person">you</name> will be all right. Of course <name type="person">I</name> should like to see your <name type="person">brother</name> if <name type="person">he</name> will call. Maybe <name type="person">I</name>
+                shall not be able to talk much to <name type="person">him</name>, but if <name type="person">he</name> does not mind that please ask <name type="person">him</name> to call. <name type="person">I</name> shall
+                try to see <name type="person">you</name> again before going away.</p>
+            <p><name type="person">You</name> must not hesitate to let <name type="person">me</name> know, dear child, when <name type="person">I</name> can serve <name type="person">you</name> in any way, no matter
+                where <name type="person">I</name> am. And please let me hear from <name type="person">you</name>—how <name type="person">you</name> are and all about <name type="person">you</name>. Address <name type="person">me</name> as
+                usual—“Box 73.”</p>
+            <p>Be brave—“with a heart for any fate.” And if the need of all your courage should come,
+                remember that <name type="person">I</name> confidently count upon your having it. Whatever may seem, remember that
+                God, Nature—whatever it is that orders things, if things are ordered at all—is not going to be
+                hard upon poor little harmless <name type="person">you</name>.</p>
+            <p><name type="person">A.B.</name></p>
+            <figure>
+                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+            </figure>
+        </body>
+    </text>
+</TEI>
+

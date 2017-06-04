@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter 07: Bierce to Myles Walsh, May 11, 1896.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Archives and Rare Book Library</publisher>
+                <pubPlace>University of Cincinnati></pubPlace>
+                <date>2015></date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>                  
+            <p><name type="place">Washington</name></p>
+            <p>May 11, 1896.</p>
+            <p>My dear <name type="person">Walsh</name></p>
+            <p><name type="person">I</name> am greatly obliged to <name type="person">you</name> for the photograph of <name type="person">Lily</name>. 
+                It does not look much like <name type="person">her</name> as <name type="person">I</name> knew
+                <name type="person">her</name>, of course, but <name type="person">I</name> am glad to have it. <name type="person">I</name> have written to <name type="person">Mrs. Hirshberg</name>, submitting suggestions
+                for beautifying <name type="person">Lily</name>’s grave, and doubtless <name type="person">she</name> will have it looking very pretty by the time that <name type="person">I</name>
+                find leisure to write that which will make people go out there to see it.</p>
+            <p>Probably <name type="person">I</name> shall be in <name type="place">New York</name> soon, as my work here will be done at the end of the session—
+                unless <name type="person">I</name>’m done first. My work has been very hard, and <name type="person">I</name>’m a little broken down.</p>
+            <p><name type="person">I</name> hope <name type="person">you</name> sometimes see <name type="person">Leigh</name>. <name type="person">He</name> does not write very often.</p>
+            <p>Sincerely yours,</p>
+            <p><name type="person">Ambrose Bierce.</name></p>
+            <figure>
+                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+            </figure>
+        </body>
+    </text>
+</TEI>
+
+

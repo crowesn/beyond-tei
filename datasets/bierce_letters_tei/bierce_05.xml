@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter 05: Bierce to Myles Walsh, February 16, 1896.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Archives and Rare Book Library</publisher>
+                <pubPlace>University of Cincinnati></pubPlace>
+                <date>2015></date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>     
+            <p>(Box 567)</p>
+            <p><name type="place">Washington, D.C.</name></p>
+            <p>Feb’y 16, 1896.</p>
+            <p>My dear <name type="person">Mr. Walsh</name></p>
+            <p><name type="person">I</name> have been trying ever since my arrival here to find time to reply even briefly to <name type="person">your</name> letter of a
+                month ago. <name type="person">I</name> am living in a whirl of “moil and turmoil,” and hardly get time hardly to eat and
+                sleep. So all my correspondents are neglected. <name type="person">I</name> came <name type="place">here</name> (with my <name type="person">boy</name>) three weeks ago, and
+                since then have been in <name type="place">New York</name> three times; so <name type="person">you</name> can see that <name type="person">I</name>’m “on the jump” a little.
+                Even when there <name type="person">I</name> saw none of my friends, and had not time to look <name type="person">you</name> up—though <name type="person">I</name> don’t
+                know if <name type="person">you</name> are to be found there.</p>
+            <p>Did <name type="person">I</name> tell <name type="person">you</name>? <name type="person">I</name>m looking over some of <name type="person">Lily</name>’s papers. <name type="person">I</name> found a photograph of <name type="person">her</name>—a fairly
+                good one, apparently taken 3 or 4 years ago. So do not bother to look up one for <name type="person">me</name>.</p>
+            <p><name type="person">I</name> saw <name type="person">Miss Hogan</name> but once since <name type="person">Lily</name>’s death, and that was before getting <name type="person">your</name> letter; so <name type="person">I</name> cannot
+                say about the pillow.</p>
+            <p>Since coming here <name type="person">I</name> have written <name type="person">Mrs. Hirshberg</name> instructions about beautifying <name type="person">Lily</name>’s grave; <name type="person">she</name>
+                kindly undertook to do so. Before <name type="person">I</name> left not enough rain had fallen to settle the little mound and
+                make it possible to get the grass going. It will be all green now, and when I go back I shall give
+                it a border and a stone; or if <name type="person">I</name> do not go back soon <name type="person">Mrs. Hirshberg</name> will attend to it for <name type="person">me</name>. My
+                movements are uncertain; <name type="person">I</name> am on a special mission here for <name type="org">The Examiner</name> but it may expire
+                any day, and then it is likely <name type="person">I</name> shall go to <name type="place">New York</name> for <name type="org">The Journal</name>, for a while. <name type="person">I</name> was
+                summoned up there by telegraph a week ago to-day to write one editorial.</p>
+            <p><name type="person">Your</name> village experiences with the sages of the parish must amuse <name type="person">you</name>. As yet <name type="person">I</name> have been
+                unable to find <name type="place">Rahway Mahwah</name> on any map. Has it been discovered by anybody but <name type="person">you</name>?</p>
+            <p>My boy <name type="person">Leigh</name> is in <name type="place">N.Y.</name> working in the art department of <name type="org">The Journal</name>. <name type="person">I</name> suppose <name type="person">he</name> would
+                care to see <name type="person">you</name>.</p>
+            <p>Sincerely yours, <name type="person">Ambrose Bierce.</name></p>
+            <figure>
+                <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+            </figure>
+        </body>
+    </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

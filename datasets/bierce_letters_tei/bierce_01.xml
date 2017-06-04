@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter 01: Bierce to Elizabeth (Lily) Walsh, undated</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Archives and Rare Book Library</publisher>
+            <pubPlace>University of Cincinnati</pubPlace>
+            <date>2015></date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Letters of Ambrose Bierce to Myles Walsh, 1895-1911</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>                  
+         <p><name type="place">Oakland</name></p>
+            <p>Friday morn’g.</p>
+            <p>My dear <name type="person">Lily</name></p>
+         <p>Owing to a relapse into the asthma habit, coupled with a feeble will to work, <name type="person">I</name> am unable to see
+            <name type="person">you</name> today, as <name type="person">I</name> had intended to do. Perhaps it is better for <name type="person">you</name> to have fewer visitors, anyhow.
+            But <name type="person">I</name> should like to know how <name type="person">you</name> are. If <name type="person">you</name> don’t feel like writing maybe <name type="person">your</name> good and
+            pretty <name type="person">nurse</name> will write a line for <name type="person">you</name> if <name type="person">you</name> ask her. <name type="person">I</name> hope <name type="person">you</name> are in good spirits—<name type="person">you</name>’ll soon
+            see <name type="person">your</name> <name type="person">brother</name>. God bless <name type="person">you</name> and make <name type="person">you</name> strong and brave.</p>
+              <p><name type="person">Ambrose Bierce.</name></p>
+         <figure>
+            <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
+         </figure>
+      </body>
+  </text>
+</TEI>
